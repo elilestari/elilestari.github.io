@@ -3,8 +3,7 @@ logo: "/images/logo2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Saya adalah seorang praktisi data yang berpengalaman dalam menafsirkan dan menganalisis data untuk mendorong pertumbuhan bisnis. Dapat memberikan wawasan, analitik, dan kecerdasan bisnis yang diperlukan untuk pengambilan keputusan. 
   <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
