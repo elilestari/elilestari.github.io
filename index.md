@@ -1,19 +1,19 @@
-## Portfolio
+## PORTOFOLIO
 
 ---
 
-### Category Name 1 
+### Data Dashboard
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail1.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail2.jpg?raw=true"/>
+[Infographics Trading](/sample_page)
+<img src="images/dashboard1.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail3.jpg?raw=true"/>
+[Modern Infographics](/pdf/sample_presentation.pdf)
+<img src="images/dashboard2.jpg?raw=true"/>
+
+---
+[Analysis Financial](http://example.com/)
+<img src="images/dashboard3.jpg?raw=true"/>
 
 ---
 
