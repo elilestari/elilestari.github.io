@@ -2,7 +2,7 @@
 
 ---
 
-### Data Dashboard
+### Dashboard
 
 Infographics Trading
 <img src="images/dashboard1.jpg?raw=true"/>
@@ -17,7 +17,13 @@ Analysis Financial
 
 ---
 
+### Article 
 
+- [Big Data Analytics](https://glints.com/id/lowongan/big-data-analytics/#.YmVoZHb7TIU)
+- [Data Visualization](https://glints.com/id/lowongan/data-visualization-adalah/#.YmVpmnb7TIU)
+- [Machine Learning](https://www.goldenfast.net/blog/apa-itu-machine-learning/)
+
+---
 
 
 
