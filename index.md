@@ -4,7 +4,7 @@
 
 ### Data Dashboard
 
-[Infographics Trading](/sample_page)
+[Infographics Trading]
 <img src="images/dashboard1.jpg?raw=true"/>
 
 ---
